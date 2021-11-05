@@ -77,5 +77,4 @@
 | 보충 | 캐글 사용법 2부 | [PDF](https://github.com/sejongresearch/2021.MachineLearning/blob/main/LectureNote/%5B%E1%84%80%E1%85%B5%E1%84%80%E1%85%A8%E1%84%92%E1%85%A1%E1%86%A8%E1%84%89%E1%85%B3%E1%86%B8%5D%5B2%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%5D%20MissingSemester_Kaggle_%E1%84%89%E1%85%B5%E1%86%AF%E1%84%89%E1%85%B3%E1%86%B8.pdf)   | [Youtube](https://youtu.be/4xlaycPT-hQ) | | 
 | 보충 | 캐글 리더보드 만들기 |  [PDF](https://github.com/SejongAI-Challenge/2020.AI.Challenge/blob/master/%E1%84%8F%E1%85%A2%E1%84%80%E1%85%B3%E1%86%AF%E1%84%85%E1%85%B5%E1%84%83%E1%85%A5%E1%84%87%E1%85%A9%E1%84%83%E1%85%B3%E1%84%86%E1%85%A1%E1%86%AB%E1%84%83%E1%85%B3%E1%86%AF%E1%84%80%E1%85%B5.pdf)  | [Youtube](https://youtu.be/g1STw4M8MNY) | | 
 | 보충 | 온라인시험 가이드라인 | X | [Youtube](https://www.youtube.com/watch?v=XHSnsZbv9g4)| | 
-
-
+[학습과정 시각화 예시](https://colab.research.google.com/drive/1EzvjlRNjMvo4ECnFuxx6ReuXih_vPA8k#scrollTo=ovtl4Q26IT4G)
